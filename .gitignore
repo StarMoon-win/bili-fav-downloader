@@ -1,0 +1,21 @@
+# 本地配置与凭证（绝不提交）
+config.json
+cookies.txt
+scripts/cookies.txt
+scripts/.cache/
+*.bak
+
+# 大体积二进制（自行安装，见 SKILL.md）
+bin/*.exe
+bin/*.zip
+
+# 运行产物
+*.log
+switch.log
+remain.txt
+sel_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

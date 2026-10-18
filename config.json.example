@@ -1,0 +1,6 @@
+{
+  "_说明": "把本文件复制为 config.json 并按实际情况填写。config.json 已在 .gitignore 里，不会被提交。",
+  "tools_dir": "",
+  "cookies": "",
+  "out_dir": ""
+}
